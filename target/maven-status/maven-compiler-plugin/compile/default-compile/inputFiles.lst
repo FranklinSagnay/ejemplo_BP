@@ -1,0 +1,11 @@
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/dao/PersonaJPARepository.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/controller/ZapatoController.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/Main.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/modelo/Persona.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/config/SecurityConfig.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/config/WebConfigMVC.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/modelo/Zapato.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/io/Input.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/service/Servicio.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/io/Output.java
+/data/Trabajo/QSoft/JMVega/Semana4/spring-mvc/src/main/java/com/bit/spring/dao/ZapatoJPARepository.java

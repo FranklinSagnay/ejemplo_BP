@@ -1,0 +1,11 @@
+com/bit/spring/Main.class
+com/bit/spring/io/Output.class
+com/bit/spring/controller/ZapatoController.class
+com/bit/spring/config/WebConfigMVC.class
+com/bit/spring/modelo/Zapato.class
+com/bit/spring/dao/PersonaJPARepository.class
+com/bit/spring/config/SecurityConfig.class
+com/bit/spring/dao/ZapatoJPARepository.class
+com/bit/spring/service/Servicio.class
+com/bit/spring/io/Input.class
+com/bit/spring/modelo/Persona.class
